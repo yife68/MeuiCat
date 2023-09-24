@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>关注「MeuiCat」微信公众号</title>
+  <link rel="icon" type="image/x-icon" href="https://meuicat.com/media/favicon.ico">
+  <meta name="apple-mobile-web-app-title" content="MeuiCat">
+  <link rel="bookmark" href="https://meuicat.com/media/favicon.ico">
+  <meta name="description" content="关注iCat-爱吃肉的猫微信公众号，获取更多最新内容。">
+  <meta name="theme-color" content="#f6f7f8">
+  <style>
+    body {
+      background: #f6f7f8;
+      margin: 0;
+      padding: 0;
+    }
+
+    .wechatOA {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      height: var(--vh);
+    }
+
+    .wechat-card {
+      background: #fff;
+      max-width: 428px;
+      max-height: 569px;
+      border-radius: 16px;
+      padding: 24px 36px 20px 36px;
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      align-items: center;
+    }
+
+    .qrcode {
+      width: 256px;
+      height: 256px;
+      display: flex;
+    }
+
+    .tips {
+      font-size: 14px;
+      color: #000;
+      opacity: 0.5;
+      margin-top: 8px;
+    }
+
+    .wechatOA-card {
+      width: 100%;
+      display: flex;
+      margin-top: 16px;
+      background: #F7F7F7;
+      padding: 18px;
+      border-radius: 16px;
+      align-items: center;
+    }
+
+    .wechatOA-head {
+      width: 48px;
+      height: 48px;
+      background-image: url(./img/avatar.webp);
+      border-radius: 68px;
+      background-size: contain;
+      margin-right: 16px;
+    }
+
+    .wechatOA-name {
+      font-weight: bold;
+    }
+
+    .wechatOA-description {
+      font-size: 12px;
+      color: #000;
+      opacity: 0.5;
+    }
+
+    a.help {
+      font-size: 14px;
+      color: #000;
+      opacity: 0.5;
+      text-decoration: none;
+      margin: 20px 0;
+    }
+
+    a.help:visited {
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <div class="wechatOA">
+    <div class="wechat-card">
+      <img src="./img/qrcode.webp" class="qrcode" alt="qrcode">
+      <div class="tips">扫描二维码关注公众号</div>
+      <div class="wechatOA-card">
+        <div class="wechatOA-head"></div>
+        <div class="wechatOA-info">
+          <div class="wechatOA-name">亦小封</div>
+          <div class="wechatOA-description">山高路遠 看世界 也找自己</div>
+        </div>
+      </div>
+    </div>
+    <a class="help" href="https://kf.qq.com/touch/wxappfaq/1208117b2mai141113jaqAnU.html?platform=14" title="帮助" target="_blank">不会扫码？</a>
+  </div>
+  <script>
+    // 改进vh
+    const vh = window.innerHeight * 1;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+    window.addEventListener('resize', () => {
+      let vh = window.innerHeight * 1;
+      document.documentElement.style.setProperty('--vh', `${vh}px`);
+    });
+  </script>
+</body>
+</html>
