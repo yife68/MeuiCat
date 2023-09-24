@@ -839,20 +839,6 @@
 
   
   <url>
-    <loc>https://meuicat.com/tags/Win10/</loc>
-    <lastmod>2023-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://meuicat.com/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/</loc>
-    <lastmod>2023-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -882,6 +868,20 @@
   
   <url>
     <loc>https://meuicat.com/tags/%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2023-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://meuicat.com/tags/Win10/</loc>
+    <lastmod>2023-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://meuicat.com/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

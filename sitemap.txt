@@ -91,13 +91,13 @@ https://meuicat.com/subscribe/index.html
 https://meuicat.com/tags/index.html
 https://meuicat.com/categories/index.html
 https://meuicat.com/
-https://meuicat.com/tags/Win10/
-https://meuicat.com/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/
 https://meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/
 https://meuicat.com/tags/%E9%AD%94%E6%94%B9%E8%AE%B0%E5%BD%95/
 https://meuicat.com/tags/iOS14/
 https://meuicat.com/tags/%E8%B6%8A%E7%8B%B1/
 https://meuicat.com/tags/%E6%8F%92%E4%BB%B6/
+https://meuicat.com/tags/Win10/
+https://meuicat.com/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/
 https://meuicat.com/tags/%E6%BA%90%E7%A0%81/
 https://meuicat.com/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/
 https://meuicat.com/tags/JSHint/
