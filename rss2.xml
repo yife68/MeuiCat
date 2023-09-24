@@ -1268,7 +1268,7 @@
       
       
       
-      <content:encoded><![CDATA[<h1 id="报错案例"><a href="#报错案例" class="headerlink" title="报错案例"></a>报错案例</h1><p><img src="https://img.meuicat.com/posts/2022/4/29.webp"></p><h1 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a>解决步骤</h1><ul><li>菜单栏 - <code><strong>Repository</strong>(仓库)</code> - <code><strong>Repository settings</strong>(仓库设置)</code></li></ul><p><img src="https://img.meuicat.com/posts/2022/4/30.webp"></p><ul><li>修改 <code><strong><a href="https://github.com/" rel="external nofollow noreferrer">https://github.com/</a></strong></code> 为 <code><strong><a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#105;&#x74;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#109;" rel="external nofollow noreferrer">&#x67;&#x69;&#116;&#64;&#103;&#105;&#x74;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#109;</a>:</strong></code> 保存即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/31.webp"><br><img src="https://img.meuicat.com/posts/2022/4/32.webp"></p><ul><li>当然了，实在不知道怎么改，就在GitHub项目里复制<code><strong>SSH</strong></code>链接即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/33.webp"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="报错案例"><a href="#报错案例" class="headerlink" title="报错案例"></a>报错案例</h1><p><img src="https://img.meuicat.com/posts/2022/4/29.webp"></p><h1 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a>解决步骤</h1><ul><li>菜单栏 - <code><strong>Repository</strong>(仓库)</code> - <code><strong>Repository settings</strong>(仓库设置)</code></li></ul><p><img src="https://img.meuicat.com/posts/2022/4/30.webp"></p><ul><li>修改 <code><strong><a href="https://github.com/" rel="external nofollow noreferrer">https://github.com/</a></strong></code> 为 <code><strong><a href="mailto:&#103;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#x2e;&#99;&#x6f;&#x6d;" rel="external nofollow noreferrer">&#103;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#x2e;&#99;&#x6f;&#x6d;</a>:</strong></code> 保存即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/31.webp"><br><img src="https://img.meuicat.com/posts/2022/4/32.webp"></p><ul><li>当然了，实在不知道怎么改，就在GitHub项目里复制<code><strong>SSH</strong></code>链接即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/33.webp"></p>]]></content:encoded>
       
       
       <category domain="https://vercel.meuicat.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
@@ -1797,9 +1797,9 @@
       <category domain="https://vercel.meuicat.com/categories/%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0/">知识笔记</category>
       
       
-      <category domain="https://vercel.meuicat.com/tags/%E6%8F%92%E4%BB%B6/">插件</category>
-      
       <category domain="https://vercel.meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/">Butterfly主题</category>
+      
+      <category domain="https://vercel.meuicat.com/tags/%E6%8F%92%E4%BB%B6/">插件</category>
       
       <category domain="https://vercel.meuicat.com/tags/Hexo/">Hexo</category>
       
