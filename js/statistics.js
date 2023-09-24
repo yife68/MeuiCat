@@ -1,13 +1,1 @@
-!function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"K05NsEfoZbXF1Nxt",ck:"K05NsEfoZbXF1Nxt",autoTrack:true,hashMode:true});
-
-// 51统计
-
-!(function(c,i,e,b){
-var h=i.createElement("script");
-var f=i.getElementsByTagName("script")[0];
-h.type="text/javascript";
-h.crossorigin=true;
-h.onload=function(){new c[b]["Monitor"]().init({id:"K05OC6DgYJ1jpnHM"});};
-f.parentNode.insertBefore(h,f);h.src=e;})(window,document,"https://sdk.51.la/perf/js-sdk-perf.min.js","LingQue");
-
-// 灵雀监控
+!function(t){"use strict";!function(e){var s=window,n=document,i=t,o="".concat("https:"===n.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),r=n.createElement("script"),c=n.getElementsByTagName("script")[0];r.type="text/javascript",r.setAttribute("charset","UTF-8"),r.async=!0,r.src=o,r.id="LA_COLLECT",i.d=r;var a=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&a():(s.LA=t,s.LA.ids=[],a()),c.parentNode.insertBefore(r,c)}()}({id:"K05NsEfoZbXF1Nxt",ck:"K05NsEfoZbXF1Nxt",autoTrack:!0,hashMode:!0}),function(t,e,s,n){var i=e.createElement("script"),o=e.getElementsByTagName("script")[0];i.type="text/javascript",i.crossorigin=!0,i.onload=function(){(new t.LingQue.Monitor).init({id:"K05OC6DgYJ1jpnHM"})},o.parentNode.insertBefore(i,o),i.src="https://sdk.51.la/perf/js-sdk-perf.min.js"}(window,document);
