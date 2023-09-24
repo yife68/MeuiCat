@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://vercel.meuicat.com/blog/75/</loc>
+    <loc>https://vercel.meuicat.com/update/index.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://vercel.meuicat.com/update/index.html</loc>
+    <loc>https://vercel.meuicat.com/blog/75/</loc>
     
-    <lastmod>2023-09-23</lastmod>
+    <lastmod>2023-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -909,13 +909,6 @@
   </url>
   
   <url>
-    <loc>https://vercel.meuicat.com/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/</loc>
-    <lastmod>2023-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://vercel.meuicat.com/tags/%E6%A9%98%E7%8C%AB/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -973,6 +966,13 @@
   
   <url>
     <loc>https://vercel.meuicat.com/tags/%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2023-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vercel.meuicat.com/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
