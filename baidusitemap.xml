@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://meuicat.com/blog/84/</loc>
+    <lastmod>2024-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://meuicat.com/blog/42/</loc>
+    <lastmod>2024-02-09</lastmod>
+  </url>
+  <url>
+    <loc>https://meuicat.com/blog/1/</loc>
+    <lastmod>2024-02-08</lastmod>
+  </url>
+  <url>
     <loc>https://meuicat.com/blog/83/</loc>
     <lastmod>2023-12-15</lastmod>
   </url>
@@ -54,10 +66,6 @@
   </url>
   <url>
     <loc>https://meuicat.com/blog/47/</loc>
-    <lastmod>2023-12-15</lastmod>
-  </url>
-  <url>
-    <loc>https://meuicat.com/blog/42/</loc>
     <lastmod>2023-12-15</lastmod>
   </url>
   <url>
@@ -326,10 +334,6 @@
   </url>
   <url>
     <loc>https://meuicat.com/blog/4/</loc>
-    <lastmod>2023-09-21</lastmod>
-  </url>
-  <url>
-    <loc>https://meuicat.com/blog/1/</loc>
     <lastmod>2023-09-21</lastmod>
   </url>
 </urlset> 
