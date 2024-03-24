@@ -109,9 +109,9 @@ https://meuicat.com/tags/iOS14/
 https://meuicat.com/tags/%E8%B6%8A%E7%8B%B1/
 https://meuicat.com/tags/%E6%8F%92%E4%BB%B6/
 https://meuicat.com/tags/%E6%BA%90%E7%A0%81/
+https://meuicat.com/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/
 https://meuicat.com/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/
 https://meuicat.com/tags/JSHint/
-https://meuicat.com/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/
 https://meuicat.com/tags/%E6%A9%98%E7%8C%AB/
 https://meuicat.com/tags/%E6%B5%81%E6%B5%AA%E7%8C%AB/
 https://meuicat.com/tags/%E5%B0%81%E3%81%AE%E5%94%A0%E5%8F%A8/
@@ -132,8 +132,8 @@ https://meuicat.com/tags/%E7%83%A7%E8%8F%9C%E5%85%B8%E7%B1%8D/
 https://meuicat.com/tags/CDN/
 https://meuicat.com/tags/%E4%BC%98%E5%8C%96/
 https://meuicat.com/tags/Docker/
-https://meuicat.com/tags/AI/
 https://meuicat.com/tags/%E6%80%9D%E8%80%83/
+https://meuicat.com/tags/AI/
 https://meuicat.com/tags/Twikoo/
 https://meuicat.com/tags/%E9%82%AE%E4%BB%B6/
 https://meuicat.com/tags/TrollStore/

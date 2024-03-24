@@ -985,6 +985,13 @@
   </url>
   
   <url>
+    <loc>https://meuicat.com/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://meuicat.com/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -993,13 +1000,6 @@
   
   <url>
     <loc>https://meuicat.com/tags/JSHint/</loc>
-    <lastmod>2024-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://meuicat.com/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1146,14 +1146,14 @@
   </url>
   
   <url>
-    <loc>https://meuicat.com/tags/AI/</loc>
+    <loc>https://meuicat.com/tags/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://meuicat.com/tags/%E6%80%9D%E8%80%83/</loc>
+    <loc>https://meuicat.com/tags/AI/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
