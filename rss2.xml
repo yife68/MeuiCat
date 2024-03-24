@@ -9,8 +9,31 @@
     <atom:link href="https://meuicat.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录生活与技术点滴</description>
-    <pubDate>Mon, 12 Feb 2024 09:31:21 GMT</pubDate>
+    <pubDate>Sun, 24 Mar 2024 17:54:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>音乐分享 - doi微醺氛围</title>
+      <link>https://meuicat.com/blog/85/</link>
+      <guid>https://meuicat.com/blog/85/</guid>
+      <pubDate>Sun, 24 Mar 2024 16:16:05 GMT</pubDate>
+      
+      <description>未满十八勿进！单身人士酌请查看~</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>对于一个耳机重度患者来说，音乐就是我每天的必须品。</p><div class="img-a" style="margin-bottom: -4px;"><img src="https://img.meuicat.com/posts/2024/3/2.webp"><img src="https://img.meuicat.com/posts/2024/3/3.webp"><img src="https://img.meuicat.com/posts/2024/3/4.webp"></div><p>翻看整理了下歌单发现，以前创建过一个doi增添氛围的歌单。就是带点颜色的哪种音乐。涩的不多，但节奏真的很顶。<br>喝点小酒，放点奇奇怪怪的音乐，氛围感拉满，让人和气氛都能快速的进入状态。</p><p>毕竟音乐嘛，能够更好的放松身心，忘记一切。在一些音乐节奏或者特别“污”的词，会使人更加投入其中。</p><p>娜老师表示：一百昏~ 👏</p><a href="https://music.163.com/#/playlist?id=7846930067" rel="external nofollow noreferrer" target="_blank" title="《混搭风格的doi氛围》" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="https://s21.ax1x.com/2024/03/24/pF4GhGQ.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">《混搭风格的doi氛围》</div><div class="link_desc">跟 亦小封 一起欣赏更多音乐</div></div></a><p>那么这一期就来浅浅“涩”一下。<br>歌单里还是有那么几首是我个人认为能排的上号的，很不错的，很顶的，能够很快速的进入下一个“阶段”。</p><div class="aplayer no-destroy" data-id="1804362955" data-server="netease" data-type="song" data-order="list" data-preload="none" data-autoplay="false" data-mutex="true" data-theme="var(--icat-blue)"></div><p>这个版本的i love you baby真的有一种眼之所及皆是你的感觉，氛围感拉满，丝毫没有颜色程度。但是很有微醺的氛围。<br>超级适合小酌的低声BGM。聊天暧昧对视拉满。</p><div class="aplayer no-destroy" data-id="1849814203" data-server="netease" data-type="song" data-order="list" data-preload="none" data-autoplay="false" data-mutex="true" data-theme="var(--icat-blue)"></div><p>这首的前奏的调调很独得娜老师芳心，但我却爱上了一分钟处的欲转音。<br>开头确实颅内高潮，节奏感很强。高音部分也选择用假音处理，增添了几分魅惑的味道。而最后的真声让人一机灵，喘息声，还有气音都给这首歌赋予了性感“诡异”的感听感<br>巨喜欢这种半死不活又顶的调。</p><div class="aplayer no-destroy" data-id="439110044" data-server="netease" data-type="song" data-order="list" data-preload="none" data-autoplay="false" data-mutex="true" data-theme="var(--icat-blue)"></div><p>R&amp;B独有的破碎感，并且伴随一股很强的神秘和迷幻感。<br>每一重节拍重音与紧贴着的两颗心脏搏动相应，配上细腻的气息，犹如细丝绕耳，很惊艳。<br>有种挑逗情思，但又很深情的厚重感，沦陷，真的沦陷。</p><p>当然了，适用得当可以加深亲密关系，但是尊重和理解是前提<br>感觉不适要及时制止，双方喜欢才有效</p>]]></content:encoded>
+      
+      
+      <category domain="https://meuicat.com/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/">闲聊杂谈</category>
+      
+      
+      <category domain="https://meuicat.com/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/">网易云音乐</category>
+      
+      
+      <comments>https://meuicat.com/blog/85/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Butterfly的魔改教程：动态相册页</title>
@@ -1489,7 +1512,7 @@
       
       
       
-      <content:encoded><![CDATA[<h1 id="报错案例"><a href="#报错案例" class="headerlink" title="报错案例"></a>报错案例</h1><p><img src="https://img.meuicat.com/posts/2022/4/29.webp"></p><h1 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a>解决步骤</h1><ul><li>菜单栏 - <code><strong>Repository</strong>(仓库)</code> - <code><strong>Repository settings</strong>(仓库设置)</code></li></ul><p><img src="https://img.meuicat.com/posts/2022/4/30.webp"></p><ul><li>修改 <code><strong><a href="https://github.com/" rel="external nofollow noreferrer">https://github.com/</a></strong></code> 为 <code><strong><a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#105;&#116;&#104;&#117;&#x62;&#x2e;&#x63;&#111;&#x6d;" rel="external nofollow noreferrer">&#x67;&#x69;&#116;&#64;&#103;&#105;&#116;&#104;&#117;&#x62;&#x2e;&#x63;&#111;&#x6d;</a>:</strong></code> 保存即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/31.webp"><br><img src="https://img.meuicat.com/posts/2022/4/32.webp"></p><ul><li>当然了，实在不知道怎么改，就在GitHub项目里复制<code><strong>SSH</strong></code>链接即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/33.webp"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="报错案例"><a href="#报错案例" class="headerlink" title="报错案例"></a>报错案例</h1><p><img src="https://img.meuicat.com/posts/2022/4/29.webp"></p><h1 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a>解决步骤</h1><ul><li>菜单栏 - <code><strong>Repository</strong>(仓库)</code> - <code><strong>Repository settings</strong>(仓库设置)</code></li></ul><p><img src="https://img.meuicat.com/posts/2022/4/30.webp"></p><ul><li>修改 <code><strong><a href="https://github.com/" rel="external nofollow noreferrer">https://github.com/</a></strong></code> 为 <code><strong><a href="mailto:&#x67;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#x75;&#98;&#46;&#99;&#111;&#109;" rel="external nofollow noreferrer">&#x67;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#x75;&#98;&#46;&#99;&#111;&#109;</a>:</strong></code> 保存即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/31.webp"><br><img src="https://img.meuicat.com/posts/2022/4/32.webp"></p><ul><li>当然了，实在不知道怎么改，就在GitHub项目里复制<code><strong>SSH</strong></code>链接即可</li></ul><p><img src="https://img.meuicat.com/posts/2022/4/33.webp"></p>]]></content:encoded>
       
       
       <category domain="https://meuicat.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
@@ -2018,9 +2041,9 @@
       <category domain="https://meuicat.com/categories/%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0/">知识笔记</category>
       
       
-      <category domain="https://meuicat.com/tags/%E6%8F%92%E4%BB%B6/">插件</category>
-      
       <category domain="https://meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/">Butterfly主题</category>
+      
+      <category domain="https://meuicat.com/tags/%E6%8F%92%E4%BB%B6/">插件</category>
       
       <category domain="https://meuicat.com/tags/Hexo/">Hexo</category>
       
