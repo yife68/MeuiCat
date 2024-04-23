@@ -1,0 +1,14 @@
+User-agent: msnbot-media
+Disallow: /
+Allow: /th?
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /media/
+Disallow: https://meuicat.com/rss2.xml
+
+Sitemap: https://meuicat.com/sitemap.xml
