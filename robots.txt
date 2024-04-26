@@ -9,6 +9,6 @@ User-agent: *
 Disallow: /css/
 Disallow: /js/
 Disallow: /media/
-Disallow: https://meuicat.com/rss2.xml
+Disallow: /update/
 
 Sitemap: https://meuicat.com/sitemap.xml
